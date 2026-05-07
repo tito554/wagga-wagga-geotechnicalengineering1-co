@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Wagga Wagga
+
+> Geotechnical engineering services in Wagga Wagga, Australia.
+
+## Services
+- [Anchors](https://wagga-wagga.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://wagga-wagga.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://wagga-wagga.geotechnicalengineering1.co/cbr-road/)
+- [Cpt Test](https://wagga-wagga.geotechnicalengineering1.co/cpt-test/)
+- [Deep Excavations](https://wagga-wagga.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://wagga-wagga.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://wagga-wagga.geotechnicalengineering1.co/excavations/)
+- [Flexible Pavement](https://wagga-wagga.geotechnicalengineering1.co/flexible-pavement/)
+- [Footings](https://wagga-wagga.geotechnicalengineering1.co/footings/)
+- [Foundations](https://wagga-wagga.geotechnicalengineering1.co/foundations/)
+- [Grain Size](https://wagga-wagga.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://wagga-wagga.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://wagga-wagga.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://wagga-wagga.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://wagga-wagga.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://wagga-wagga.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://wagga-wagga.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://wagga-wagga.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://wagga-wagga.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://wagga-wagga.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://wagga-wagga.geotechnicalengineering1.co/piles/)
+- [Proctor Tests](https://wagga-wagga.geotechnicalengineering1.co/proctor-tests/)
+- [Resistivity](https://wagga-wagga.geotechnicalengineering1.co/resistivity/)
+- [Retaining Walls](https://wagga-wagga.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://wagga-wagga.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://wagga-wagga.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://wagga-wagga.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://wagga-wagga.geotechnicalengineering1.co/seismic/)
+- [Seismic Isolation](https://wagga-wagga.geotechnicalengineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://wagga-wagga.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://wagga-wagga.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://wagga-wagga.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://wagga-wagga.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://wagga-wagga.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://wagga-wagga.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://wagga-wagga.geotechnicalengineering1.co/stone-columns/)
+- [Test Pits](https://wagga-wagga.geotechnicalengineering1.co/test-pits/)
+- [Triaxial](https://wagga-wagga.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://wagga-wagga.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://wagga-wagga.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Wagga Wagga, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
